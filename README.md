@@ -94,3 +94,5 @@ AdonisJS is an MIT-licensed open source project. It can grow thanks to the spons
 ## License
 
 AdonisJS is [MIT licensed](https://github.com/adonisjs/core/blob/master/LICENSE.md).
+
+# PR Merge: 2025-12-03 11:08:41
